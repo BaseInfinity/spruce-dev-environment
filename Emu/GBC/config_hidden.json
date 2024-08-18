@@ -11,7 +11,15 @@
 	"hidebios":	0,
 	"extlist":	"bin|dmg|gb|gbc|zip|7z",
   "launchlist": [
-          {
+        {
+            "name": "Change core to mgba",
+            "launch": "mgba.sh"
+        },
+        {
+            "name": "✓ Core is gambatte",
+            "launch": "gambatte.sh"
+        },
+        {
             "name": "Set CPU to 648 MHz",
             "launch": "648.sh"
         },
